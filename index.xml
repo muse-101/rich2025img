@@ -1,374 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>故宮見習紀錄 on 2025故宮見習</title>
-    <link>https://muse-101.github.io/rich2025img/</link>
-    <description>Recent content in 故宮見習紀錄 on 2025故宮見習</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Rich2025 相簿 on </title>
+    <link>http://localhost:1313/rich2025img/</link>
+    <description>Recent content in Rich2025 相簿 on </description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Awaken the Force Within - May the Empowerment Be with You!</copyright><atom:link href="https://muse-101.github.io/rich2025img/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/rich2025img/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>0515 觀眾訪談</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted/0515/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted/0515/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted/0515/20250515-1_hu_4cb4c20b067736e5.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted/0515/20250515-1_hu_4cb4c20b067736e5.jpg&quot; /&gt;
-          &lt;p&gt;5月15日&lt;/p&gt;
-        </description></item>
+      <title>MUSE on Melody</title>
+      <link>http://localhost:1313/rich2025img/galleries/muse/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rich2025img/galleries/muse/</guid>
+      <description>&lt;p&gt;繆思美樂地&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>1 前導</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted518/20250518-1/</link>
+      <title>518- 1 前導</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted518/20250518-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted518/20250518-1/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted518/20250518-1/20250518-1-01_hu_23feeaecbc9fdfd9.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted518/20250518-1/20250518-1-01_hu_23feeaecbc9fdfd9.jpg&quot; /&gt;
-          &lt;p&gt;5月18日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted518/20250518-1/</guid>
+      <description>&lt;p&gt;5月18日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>1 前導</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-1/</link>
+      <title>518- 2 論壇</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted518/20250518-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-1/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-1/20250519-1-01_hu_29b8ea1340bfae2e.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-1/20250519-1-01_hu_29b8ea1340bfae2e.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted518/20250518-2/</guid>
+      <description>&lt;p&gt;5月18日&lt;/p&gt;</description>
+    </item>
     <item>
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <title>1st</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted609/609-1/</link>
+      <title>518- 3 展場巡禮</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted518/20250518-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted609/609-1/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted609/609-1/0017-969_hu_59686d4791893cff.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted609/609-1/0017-969_hu_59686d4791893cff.jpg&quot; /&gt;
-          &lt;p&gt;1st&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted518/20250518-3/</guid>
+      <description>&lt;p&gt;5月18日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2 103 (2) 賞賜有禮</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103a/</link>
+      <title>518- 4 座談</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted518/20250518-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103a/20250519-2a-103-01_hu_a7f6c487a12a3f42.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103a/20250519-2a-103-01_hu_a7f6c487a12a3f42.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted518/20250518-4/</guid>
+      <description>&lt;p&gt;5月18日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2 103 賞賜有禮</title>
-=======
-      <title>2 103室</title>
->>>>>>> parent of 195bb97 (0528)
-=======
-      <title>2 103室</title>
->>>>>>> parent of 195bb97 (0528)
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103/</link>
+      <title>519- 1 前導</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103/20250519-2-103-1_hu_729b2c4042b331ef.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103/20250519-2-103-1_hu_729b2c4042b331ef.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-1/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2 103室 (2)</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103a/</link>
+      <title>519- 2 103 (2) 賞賜有禮</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-103a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103a/20250519-2a-103-01_hu_a7f6c487a12a3f42.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-2-103a/20250519-2a-103-01_hu_a7f6c487a12a3f42.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-103a/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2 104室</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-104/</link>
+      <title>519- 2 103 賞賜有禮</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-103/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-104/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-2-104/20250519-2-104-1_hu_e420373d883a7e7e.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-2-104/20250519-2-104-1_hu_e420373d883a7e7e.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-103/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2 300室</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-300a/</link>
+      <title>519- 2 104 身體展演</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-104/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-300a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-2-300a/20250519-2a-300-01_hu_e7c9d574506b5687.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-2-300a/20250519-2a-300-01_hu_e7c9d574506b5687.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-104/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2 303,300室</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-303a/</link>
+      <title>519- 2 300 華麗魔法屋</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-300a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-303a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-2-303a/20250519-2-303a-1_hu_b7b6e1f1d6174cd9.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-2-303a/20250519-2-303a-1_hu_b7b6e1f1d6174cd9.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-300a/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2 論壇</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted518/20250518-2/</link>
+      <title>519- 2(1) 300 華麗魔法屋</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-300/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted518/20250518-2/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted518/20250518-2/20250518-2-01_hu_43fbd35c52c75c9f.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted518/20250518-2/20250518-2-01_hu_43fbd35c52c75c9f.jpg&quot; /&gt;
-          &lt;p&gt;5月18日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-2-300/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2(1) 300</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-300/</link>
+      <title>519- 212 悅耳</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-212a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-2-300/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-2-300/20250519-2-300-1_hu_a3b8b947c170b3dd.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-2-300/20250519-2-300-1_hu_a3b8b947c170b3dd.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-212a/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <title>212 悅耳</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-212a/</link>
+      <title>519- 3 202 織造精彩</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-202/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-212a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-3-212a/20250519-3-212-01_hu_60468cf4caf81448.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-3-212a/20250519-3-212-01_hu_60468cf4caf81448.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-202/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>2nd</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted609/609-2/</link>
+      <title>519- 3 203 看得見的紅樓夢</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-203a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted609/609-2/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted609/609-2/0357-648_hu_104987459f9d11d9.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted609/609-2/0357-648_hu_104987459f9d11d9.jpg&quot; /&gt;
-          &lt;p&gt;2nd&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-203a/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>3 202 織造精彩</title>
-=======
-      <title>3 202室</title>
->>>>>>> parent of 195bb97 (0528)
-=======
-      <title>3 202室</title>
->>>>>>> parent of 195bb97 (0528)
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-202/</link>
+      <title>519- 3 208 國寶聚焦</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-208a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-202/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-3-202/20250519-3-202-1_hu_71b3bc5ae72e7ce8.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-3-202/20250519-3-202-1_hu_71b3bc5ae72e7ce8.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-208a/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>3 208室</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-208a/</link>
+      <title>519- 3 210 (2) 織造精彩</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-210a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-208a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-3-208a/20250519-3-208a-1_hu_4aea3850d779a769.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-3-208a/20250519-3-208a-1_hu_4aea3850d779a769.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-210a/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>3 210室</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210/</link>
+      <title>519- 3 210 (後) 新媒體藝術</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-210m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210/20250519-3-210-01_hu_fe74c067815ede0b.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210/20250519-3-210-01_hu_fe74c067815ede0b.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-210m/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>3 210室 (2)</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210a/</link>
+      <title>519- 3 210 織造精彩</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-210/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210a/20250519-3-210a-01_hu_e506a62e809c203a.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210a/20250519-3-210a-01_hu_e506a62e809c203a.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-3-210/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>3 210後方 書畫多媒體</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210m/</link>
+      <title>519- 4 座談</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210m/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210m/20250519-3-210m-1_hu_ebf674b7e519459e.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-3-210m/20250519-3-210m-1_hu_ebf674b7e519459e.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-4/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-      <title>3 展場巡禮</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted518/20250518-3/</link>
+      <title>519- 4a 座談</title>
+      <link>http://localhost:1313/rich2025img/private/unlisted519/20250519-4a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted518/20250518-3/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted518/20250518-3/20250518-3-01_hu_c0db76573e2ddd1a.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted518/20250518-3/20250518-3-01_hu_c0db76573e2ddd1a.jpg&quot; /&gt;
-          &lt;p&gt;5月18日&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/private/unlisted519/20250519-4a/</guid>
+      <description>&lt;p&gt;5月19日&lt;/p&gt;</description>
+    </item>
     <item>
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <title>3rd</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted609/609-3/</link>
+      <title>關於</title>
+      <link>http://localhost:1313/rich2025img/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted609/609-3/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted609/609-3/0432-709_hu_24708c3ce0866eb1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted609/609-3/0432-709_hu_24708c3ce0866eb1.jpg&quot; /&gt;
-          &lt;p&gt;3rd&lt;/p&gt;
-=======
-=======
->>>>>>> parent of 195bb97 (0528)
-      <title>312 書畫</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-212a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-3-212a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-3-212a/20250519-3-212-01_hu_60468cf4caf81448.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-3-212a/20250519-3-212-01_hu_60468cf4caf81448.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-<<<<<<< HEAD
->>>>>>> parent of 195bb97 (0528)
-=======
->>>>>>> parent of 195bb97 (0528)
-        </description></item>
-    <item>
-      <title>4 座談</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted518/20250518-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted518/20250518-4/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted518/20250518-4/20250518-4-01_hu_c206e8c7e67ba116.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted518/20250518-4/20250518-4-01_hu_c206e8c7e67ba116.jpg&quot; /&gt;
-          &lt;p&gt;5月18日&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>4 座談</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-4/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-4/20250519-4-001_hu_d7fe6490de36be6b.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-4/20250519-4-001_hu_d7fe6490de36be6b.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>4a 座談</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted519/20250519-4a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted519/20250519-4a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted519/20250519-4a/20250519-4a-01_hu_43a27586062e648d.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted519/20250519-4a/20250519-4a-01_hu_43a27586062e648d.jpg&quot; /&gt;
-          &lt;p&gt;5月19日&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>4th</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted609/609-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted609/609-4/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted609/609-4/0643-517_hu_cdf42fe66a384035.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted609/609-4/0643-517_hu_cdf42fe66a384035.jpg&quot; /&gt;
-          &lt;p&gt;4th&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>5th</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted609/609-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted609/609-5/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted609/609-5/0727-445_hu_77c4267a41cca6f6.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted609/609-5/0727-445_hu_77c4267a41cca6f6.jpg&quot; /&gt;
-          &lt;p&gt;5th&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>教育訓練 - 圖書館</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted/0410a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted/0410a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted/0410a/20250410a-01_hu_ca1e61458c075352.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted/0410a/20250410a-01_hu_ca1e61458c075352.jpg&quot; /&gt;
-          &lt;p&gt;4月10日&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>教育訓練 - 工作會議</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted/0410/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted/0410/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted/0410/20250410-1_hu_699590d2707b47d7.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted/0410/20250410-1_hu_699590d2707b47d7.jpg&quot; /&gt;
-          &lt;p&gt;4月10日&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>教育訓練 - 正館展覽</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted/0320/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted/0320/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted/0320/20250320-1_hu_1438d76b5ca7accd.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted/0320/20250320-1_hu_1438d76b5ca7accd.jpg&quot; /&gt;
-          &lt;p&gt;3月20日&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>教育訓練 - 正館展覽(2)</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted/0320a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted/0320a/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted/0320a/20250320a-01_hu_98085a20a064616a.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted/0320a/20250320a-01_hu_98085a20a064616a.jpg&quot; /&gt;
-          &lt;p&gt;3月20日&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>教育訓練 - 觀眾意見調查</title>
-      <link>https://muse-101.github.io/rich2025img/unlisted/0424/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/unlisted/0424/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/unlisted/0424/20250424_hu_20a81217f12622aa.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/unlisted/0424/20250424_hu_20a81217f12622aa.jpg&quot; /&gt;
-          &lt;p&gt;4月24日&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>518</title>
-      <link>https://muse-101.github.io/rich2025img/0518/20250518/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/0518/20250518/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/0518/20250518/20250518-1-24_hu_6aab3c5133d3978e.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/0518/20250518/20250518-1-24_hu_6aab3c5133d3978e.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>519</title>
-      <link>https://muse-101.github.io/rich2025img/0519/20250519/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://muse-101.github.io/rich2025img/0519/20250519/</guid>
-        <media:content url="https://muse-101.github.io/rich2025img/0519/20250519/20250519-1-32_hu_24f660ad6296bb33.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://muse-101.github.io/rich2025img/0519/20250519/20250519-1-32_hu_24f660ad6296bb33.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/rich2025img/about/</guid>
+      <description>&lt;p&gt;RICH 2025&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
